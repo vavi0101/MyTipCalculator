@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyTipCalculator</string>
+    <string name="_0">0</string>
+    <string name="per_person">Per Person</string>
+    <string name="total_bill">Total Bill</string>
+    <string name="generous_tip">Generous Tip</string>
+    <string name="_20">20%</string>
+    <string name="subtract_tip">subtract tip</string>
+    <string name="_4">4</string>
+    <string name="input">input</string>
+</resources>
